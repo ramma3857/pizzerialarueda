@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"obj",
+				"object-position\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"flex-",
+				"flex-product"
+			],
+			[
+				"flex",
+				"flex-item"
+			],
+			[
+				"o",
+				"object-fit\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"Padd",
+				"padding\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"image",
+				"border-image-source\tproperty"
+			],
+			[
+				"m-auto",
+				"ms-autohiding-scrollbar"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"loteria",
+				"loteriainst"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"ri",
+				"padding-right\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"a",
+				"align-self\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"initial\tdisplay"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"gvtarjet",
+				"gvtarjetaspid"
+			],
+			[
+				"gvtarjetas",
+				"gvtarjetasp"
+			],
+			[
+				"promo",
+				"Promociones"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Ras",
+				"raspaditatarasca"
+			],
+			[
+				"raspadita",
+				"raspaditatarasca"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/iMac/Dropbox/Html/La Ruedita/css/style.css",
+		"/Users/iMac/Dropbox/Html/La Ruedita/producto.html",
+		"/Users/iMac/Dropbox/Html/La Ruedita/lrpromos.html",
+		"/Users/iMac/Dropbox/Html/Pruebas/Image Caption Hover Animation/CpationHover.html",
+		"/Users/iMac/Dropbox/Html/Pruebas/Image Caption Hover Animation/CaptionHoverBackUp.html",
+		"/Users/iMac/Dropbox/Html/La Ruedita/index.html",
+		"/Users/iMac/Dropbox/Html/La Ruedita/lrmenu.html",
+		"/Users/iMac/Dropbox/Html/La Ruedita/js/inicio.js",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil 2/Index3.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil/Ingesofacil2.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil/index.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil/IngresoFacil.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil/Css/bootstrap.min.css",
+		"/Users/iMac/Dropbox/Html/Prueba/prueba.html",
+		"/Users/iMac/Dropbox/Html/Prueba/css/estilos.css",
+		"/Users/iMac/Dropbox/Html/Velton-Accesos/Velton Iplan/index.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil 2/Index.html",
+		"/Users/iMac/Dropbox/Html/Velton-Accesos/Velton Accesos/index.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil 2/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil 2/Prueba.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil 2/Index2.html",
+		"/Users/iMac/Dropbox/Html/Ingreso Facil/IngresofacilFlower.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/index.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/Css/bootstrap.min.css",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vapreguntas.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vacontact.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vaacercade.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vabingos.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vaTarjetaP.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatarjetasc.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatarjetasrfid.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatarjetaspid.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatarjetasp.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatito.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatelebingos.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/valoteriacomb.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/valoteriatrad.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/valoteriainst.html",
+		"/Volumes/KINGSTON/Velton Accesos/index.html",
+		"/Users/iMac/Dropbox/Html/Carrousel/1903Carousel.html",
+		"/Users/iMac/Dropbox/Html/Carrousel/Css/1903carousel.css",
+		"/Users/iMac/Dropbox/Html/Carrousel/Carousel.html",
+		"/Volumes/KINGSTON/Velton Accesos/Css/bootstrap.min.css",
+		"/Users/iMac/Dropbox/Html/Velton/Css/carouselcontrol.css",
+		"/Users/iMac/Dropbox/Html/Core.js",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/Css/slidestyle.css",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/Css/StyleCarrousel.css",
+		"/Users/iMac/Dropbox/Html/Velton/index.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vatarjetascred.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vapromo.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/valoteriapoce.html",
+		"/ Velton/ Entradas/ Velton Accesos/Web/wetransfer-b12d8f/Sitio/public/index.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vabingosPrueba.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtelebingos.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vaentradas.html",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/Css/galeria.css",
+		"/Users/iMac/Dropbox/Html/Velton Accesos/vacontact2.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Css/https-::maxcdnbootstrap:400-beta2:css:bootstrapmin.css",
+		"/Users/iMac/Dropbox/Html/Velton/Css/bootstrap.min.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/abc30.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Css/galeria.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Scr/slidestyle.js",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/abc41.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Css/slidestyle.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Scr/bootstrap.min.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/galeria.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Css/principal.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Css/Bootstrap01.css",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/abc40.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/abc20.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/gvloteriai.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/Scr/galeria.js",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/gvloteriaiTIRAR22.html",
+		"/Users/iMac/Dropbox/Html/Velton Pruebas/gvloteriaiTIRAR21.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvloteriaiTIRAR2.html",
+		"/Users/iMac/Dropbox/Html/Carrousel/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Carrousel/Css/hojastilo.css",
+		"/Users/iMac/Dropbox/Html/Slide/css/style.css",
+		"/Users/iMac/Dropbox/Html/Slide/js/script.js",
+		"/Users/iMac/Dropbox/Html/Slide/IndiceSlide.html",
+		"/Users/iMac/Dropbox/Html/Proyecto/Index.html",
+		"/Users/iMac/Dropbox/Html/Velton/Velton.html",
+		"/Users/iMac/Dropbox/Html/Slide/Css/estilo.css",
+		"/Users/iMac/Dropbox/Html/Slide/index.html",
+		"/Users/iMac/Dropbox/Html/Slide/Slide.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvloteriac.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvloteriaiTIRAR.html",
+		"/Users/iMac/Dropbox/Html/Velton/gventradas118.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtito.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvloteriat.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvloteriai.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetaspid.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetasrfid.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetasp.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvloteriap.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetasc.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvpromo.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvcontact.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvbingos.html",
+		"/Users/iMac/Dropbox/Html/Velton/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Velton Backup/MenuDeplegable.html",
+		"/Users/iMac/Dropbox/Html/Velton Backup/Css/stylemenu.css",
+		"/Users/iMac/Dropbox/Html/Velton Backup/Velton.html",
+		"/Users/iMac/Dropbox/Html/Velton Backup/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Velton/php/menu.php",
+		"/Users/iMac/Dropbox/Html/Proyecto/Css/estilo.css",
+		"/Users/iMac/Dropbox/Html/Velton Previo/Css/style.css",
+		"/Users/iMac/Dropbox/Html/Velton Previo/Velton.html",
+		"/Users/iMac/Dropbox/Html/Velton Previo/Css/stylemenu.css",
+		"/Users/iMac/Dropbox/Html/Velton Previo/MenuDeplegable.html",
+		"/Users/iMac/Dropbox/Html/Velton Previo/Carousel.html",
+		"/Users/iMac/Dropbox/Html/Velton Previo/Css/bootstrapmin.css",
+		"/Users/iMac/Dropbox/Html/Velton Previo/Css/style2.css",
+		"/Users/iMac/Dropbox/Html/Velton Previo/VeltonMenuAle.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetasprfid.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetasid.html",
+		"/Users/iMac/Dropbox/Html/Velton/gvtarjetas.html",
+		"/Users/iMac/Dropbox/Html/Pruevas Varias/Menudesplegable.html",
+		"/Users/iMac/Dropbox/Html/Velton/Css/Bootstrap01.csss",
+		"/Users/iMac/Dropbox/Html/Velton/Css/https-::maxcdnbootstrap:400-beta2:css:bootstrapmin.css",
+		"/Users/iMac/Dropbox/Html/Velton/velton2.html",
+		"/Users/iMac/Dropbox/Html/Velton/veltoncontac.html",
+		"/Users/iMac/Dropbox/Html/Pruevas Varias/Pruebas.html",
+		"/Users/iMac/Dropbox/Html/Velton/VeltonContacto.html",
+		"/Users/iMac/Dropbox/Html/Proyecto/Pruebas.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Velton/Css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
